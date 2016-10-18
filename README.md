@@ -48,18 +48,27 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 
 ## บันทึกผลการทดลอง
 
+  https://drive.google.com/file/d/0B2dq2HMXOOglUXVhcUpFY2lXVHM/view?usp=sharing
+  จากการทดลองโปรแกรมหลังจากพิมพ์คำสั่งตามตัวอย่าง เมื่อกด ctrl+f5 จะได้ MessageBox เป็นกล่องข้อความตอบโต้ขึ้นมา ว่า
+  Hello World! This is my first win32 program!
+  
  [ให้สรุปผลการทดลอง แล้ว commit changes จากนั้นให้ส่งไปที่ edmodo]
  เหตุผลที่ต้องแจ้ง เพราะส่วนใหญ่ไม่ได้ใช้ชื่อจริง + รหัสนักศึกษา ในการสมัคร github
+ 
 
 ## คำถาม 
 1. นักศึกษาพบปัญหาในการคอมไพล์โปรแกรมหรือไม่ ถ้าเจอให้บอกที่ผิดและแนวทางการแก้ไข
+   ไม่พบปัญหา
 2. ให้ทดลองแก้ไข <code> MessageBox(...) </code> โดยการเปลี่ยน <code> MB_OK </code> เป็นค่าอื่นๆ [ดูได้จากอ้างอิงตามลิงค์นี้](https://github.com/Desktop-Programming-Lab-2559/LAB-01/blob/master/message-box.md)
 
 ```c 
  	MessageBox(NULL, "Hello World! This is my first win32 program!", "Lesson1", MB_OK);
 ```
-				
-
+   จากผลการทดลองเปลี่ยนจะได้กล่องข้อความตอบสนองทางหน้าจอดังนี้
+   https://drive.google.com/file/d/0B2dq2HMXOOgldHNUZmM0RThHTEE/view?usp=sharing
+   https://drive.google.com/file/d/0B2dq2HMXOOglcjNKTUJ4ZE5KUEk/view?usp=sharing
+   https://drive.google.com/file/d/0B2dq2HMXOOglTkVsVWNlVlprVDQ/view?usp=sharing
+   https://drive.google.com/file/d/0B2dq2HMXOOglR0ZGeUlhU3lucVk/view?usp=sharing
 
 ##[อ้างอิง](https://github.com/Desktop-Programming-Lab-2559/LAB-01/wiki/References)
 WinMain (..), MessageBox(..) 
