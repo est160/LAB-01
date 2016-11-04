@@ -15,7 +15,7 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
   จากการทดลองเมื่อเขียนโปรแกรมเสร็จและทำการรันจะได้กล่องข้อความตอบสนองดังรูปภาพโดยเมื่อกดปุ่ม OK จะทำกล่องข้อความตอบสนองหายไป
   
   
-  ![](https://github.com/est160/LAB-01/blob/master/imgs/1.jpg?raw=true)
+  <img src = "https://github.com/est160/LAB-01/blob/master/imgs/1.jpg?raw=true">
 
 ## คำถาม 
 1. นักศึกษาพบปัญหาในการคอมไพล์โปรแกรมหรือไม่ ถ้าเจอให้บอกที่ผิดและแนวทางการแก้ไข
