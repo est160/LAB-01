@@ -29,4 +29,4 @@ MessageBox(NULL, "Hello World! This is my first win32 program!",
 		 "Lesson1", MB_ABORTRETRYIGNORE);
 		 
   		
-   <img src="https://github.com/est160/LAB-01/blob/master/imgs/2.png?raw=true">
+   ![]("https://github.com/est160/LAB-01/blob/master/imgs/2.png?raw=true")
