@@ -43,11 +43,11 @@ MessageBox(NULL, "Hello World! This is my first win32 program!",
 		"Lesson1", MB_RETRYCANCEL);
 		
 		
-   <img scr ="https://github.com/est160/LAB-01/blob/master/imgs/4.png?raw=true">
+    <img src="https://github.com/est160/LAB-01/blob/master/imgs/4.png?raw=true">
    
 
 MessageBox(NULL, "Hello World! This is my first win32 program!",
 		"Lesson1", MB_ICONWARNING);
 		
 		
-   <img scr ="https://github.com/est160/LAB-01/blob/master/imgs/5.png?raw=true">
+    <img src="https://github.com/est160/LAB-01/blob/master/imgs/5.png?raw=true">
